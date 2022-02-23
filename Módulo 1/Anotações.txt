@@ -1,0 +1,63 @@
+Começar o código: ! Enter
+Trocar ENG por PT-BR
+Favicon: link:favicon Enter
+Título: title Enter : <title></title>
+Head1: h1 Enter : <h1></h1>
+Head2: h2 Enter : <h2></h2>
+Head3: h3 Enter : <h3></h3>
+Parágrafo: p Enter: <p></p>
+
+Imagem: img Enter (CTRL + SPACE: procura imagem na pasta)
+
+Lorem ipsum: lorem Enter
+Endereço: address : <address></address>
+
+Negrito: strong : <strong></strong>
+Itálico: em : <em></em>
+Marca Texto: mark : <mark></mark>
+Small text: small: <small></small>
+Texto rasurado: del : <del></del>
+Sublinhado: ins : <ins></ins>
+Texto Subescrito: sub : <sub></sub>
+Texto Sobescrito: sup : <sup></sup>
+
+Código: <code></code>
+Formatar espaços codigo: <pre></pre> (shift tab quebra espaços)
+Citações: <q></q>
+Citações em bloco: <blockquote></blockquote> <blockquote cite="">
+Abreviações: abbr! : <abbr title=""></abbr>
+
+Lista ordenada: ol : <ol></ol> (type A,a,I,i; start 1,2,3...)
+Lista não ordenada: ul : <ul></ul> (type square, circle, disk)
+Lista: li <li>
+
+Lista de definição: dl <dl></dl>
+Termo: dt
+descrição: dd
+
+Links: a href : <a href="link" target="_blank" rel="external"></a>
+(rel next, previous)
+../index.html
+
+Download: <a href="livro/TIMBRADO GARPM (22-06).pdf" download="TIMBRADO GARPM (22-06).pdf" type="application/pdf">Baixar o livro em PDF</a>
+
+imagem: img
+audio: audio
+video: video
+parametros (controls, autoplay, loop, poster) 
+
+Hospedagem no youtube: embed code do site ytb
+
+
+
+Tecla ALT -> multiplos cursores
+
+
+
+Parâmetro Style: style="" (pode ser uma tag Style com css)
+Criar a tag em volta do texto: ctrl + shift + p Enter (código) Enter (envelopar com abreviatura)
+
+MANEIRA EFICIENTE DE USAR CSS>
+link:css -> criar arquivo style.css -> @charset "UTF-8"; -> colar codigo css
+
+

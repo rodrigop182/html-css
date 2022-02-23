@@ -1,0 +1,54 @@
+Gradient em CSS
+
+    <style> 
+    * {
+        height: 100%;
+    }
+    
+    body {
+        background-image: linear-gradient(45deg, white, lightblue);
+        background-attachment: fixed;
+    }
+
+    </style>
+
+Fontes em CSS
+
+body {    
+            font-family: poppins, montserrat;
+        
+            /* Medidas Absolutas
+            cm, mm, in, px, pt,pcp
+        
+            Medidas Relativas
+            em, ex, rem, vw, vh, %
+            16px = 1 em
+            */
+            
+            font-size: 16px;
+            font-weight: normal;
+            font-style: italic;
+        
+                /* lighter, normal, bold, bolder 
+                   ou 100 - 900
+                */
+        }
+
+        h1 {
+            font-family: poppins, sans-serif;
+            font-weight: bolder;
+            font-style: italic;
+
+                /* shorthand font
+                - font-style -> font-weight -> font-size -> font-family
+
+                */
+        }
+
+        h2 {
+            font: italic bold 20px montserrat
+        }
+
+
+
+
