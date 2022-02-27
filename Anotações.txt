@@ -59,5 +59,3 @@ Criar a tag em volta do texto: ctrl + shift + p Enter (código) Enter (envelopar
 
 MANEIRA EFICIENTE DE USAR CSS>
 link:css -> criar arquivo style.css -> @charset "UTF-8"; -> colar codigo css
-
-
